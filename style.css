@@ -1,3 +1,21 @@
 body {
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
+
+ul.recipes {
+    list-style-type: square;
+    font-size: 1.3em;
+    font-weight: bolder;
+}
+
+img {
+    width: 250px;
+    height: auto;
+    float: right;
+}
+
+.ingredients {
+    list-style-type: square;
+    color: wheat;
+    background-color: brown;
+}
